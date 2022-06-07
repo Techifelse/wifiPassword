@@ -7,8 +7,7 @@ wifiPassword
    :target: https://pypi.python.org/pypi/wifiPassword
 .. image:: https://img.shields.io/pypi/dm/wifiPassword.svg
    :target: https://pypi.python.org/pypi/wifiPassword
-.. image:: https://landscape.io/github/ankitjain28may/wifiPassword/master/landscape.svg?style=flat-square
-   :target: https://landscape.io/github/ankitjain28may/wifiPassword/master
+
 
 A cross platform CLI tool to get connected wifi network's password.
 
