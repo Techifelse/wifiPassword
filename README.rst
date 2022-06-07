@@ -41,7 +41,6 @@ Note : If you won't give wifi_name, it selects the profile of the connected netw
 License
 ~~~~~~~
 
-Copyright (c) 2016 Ankit Jain - Released under MIT License
+Copyright (c) 2016 Techifelse - Released under MIT License
 
-P.S For more python scripts Go To ->
-`pythonResources <https://github.com/ankitjain28may/pythonResources>`__
+
