@@ -4,7 +4,7 @@ from setuptools import setup
 import sys
 
 setup(
-    name='wifiPassword',
+    name='wifiPassword Aryan Singh Recreated',
     version='2.0',
     description='A cross platform CLI tool to get connected wifi network\'s password.',
     long_description=open('README.rst').read(),
